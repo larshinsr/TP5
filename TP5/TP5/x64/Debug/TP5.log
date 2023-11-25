@@ -1,0 +1,5 @@
+﻿  TP5.cpp
+C:\Users\Домашняя пекарня\source\repos\TP5\TP5\TP5.cpp(178,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Домашняя пекарня\source\repos\TP5\TP5\TP5.cpp(185,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Домашняя пекарня\source\repos\TP5\TP5\TP5.cpp(196,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  TP5.vcxproj -> C:\Users\Домашняя пекарня\source\repos\TP5\x64\Debug\TP5.exe
